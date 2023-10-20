@@ -77,7 +77,6 @@
       </exclusions>
     </dependency>
     <dependency>
-    <dependency>
       <groupId>org.apache.kafka</groupId>
       <artifactId>kafka-clients</artifactId>
       <version>${kafka.lib.version}</version>
