@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinot-query-planner" />
+        <module name="pinot-kafka-2.0" />
+        <module name="pinot-spi" />
+        <module name="pinot-avro" />
+        <module name="pinot-yammer" />
+        <module name="pinot-thrift" />
+        <module name="pinot-controller" />
+        <module name="pinot-gcs" />
+        <module name="pinot-hdfs" />
+        <module name="pinot-kinesis" />
+        <module name="pinot-compatibility-verifier" />
+        <module name="pinot-avro-base" />
+        <module name="pinot-fmpp-maven-plugin" />
+        <module name="pinot-protobuf" />
+        <module name="pinot-distribution" />
+        <module name="pinot-segment-uploader-default" />
+        <module name="pinot-segment-spi" />
+        <module name="pinot-jdbc-client" />
+        <module name="pinot-confluent-avro" />
+        <module name="pinot-core" />
+        <module name="pinot-spark-3-connector" />
+        <module name="pinot-dropwizard" />
+        <module name="pinot-broker" />
+        <module name="pinot-segment-local" />
+        <module name="pinot-batch-ingestion-spark-3" />
+        <module name="pinot-segment-writer-file-based" />
+        <module name="pinot-integration-tests" />
+        <module name="pinot-batch-ingestion-standalone" />
+        <module name="pinot-orc" />
+        <module name="pinot-kafka-base" />
+        <module name="pinot-minion" />
+        <module name="pinot-azure" />
+        <module name="pinot-query-runtime" />
+        <module name="pinot-spark-common" />
+        <module name="pinot-batch-ingestion-spark-2.4" />
+        <module name="pinot-java-client" />
+        <module name="pinot-common" />
+        <module name="pinot-tools" />
+        <module name="pinot-flink-connector" />
+        <module name="pinot-csv" />
+        <module name="pinot-s3" />
+        <module name="pinot-integration-test-base" />
+        <module name="pinot-spark-2-connector" />
+        <module name="pinot-clp-log" />
+        <module name="pinot-pulsar" />
+        <module name="pinot-perf" />
+        <module name="pinot-batch-ingestion-common" />
+        <module name="pinot-server" />
+        <module name="pinot-batch-ingestion-hadoop" />
+        <module name="pinot-adls" />
+        <module name="pinot-json" />
+        <module name="pinot-minion-builtin-tasks" />
+        <module name="pinot-parquet" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
